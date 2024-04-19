@@ -1,6 +1,7 @@
 [project]
 name = "galactory"
 version = "0.10.0"
+dynamic = ["description", "requires-python", "license", "authors", "keywords", "classifiers", "dependencies"]
 
 [build-system]
 requires = ["setuptools", "wheel"]
